@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "My First Blog Post!"
 date:   2016-06-21 20:44:35 +0300
 categories: jekyll update
